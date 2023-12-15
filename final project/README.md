@@ -1,6 +1,7 @@
 
 # LLM-Based Item Recommendation Project
 
+
 ## Overview
 This project explores the use of Large Language Models (LLMs) for item recommendation, specifically focusing on the MovieLens 100K dataset. The project aims to:
 1. Utilize prompt engineering to teach LLMs for item recommendation.
@@ -50,3 +51,22 @@ The repository is organized as follows:
 
 ## Conclusion
 This project demonstrates the potential of LLMs in item recommendation and provides insights into the effectiveness of various prompt engineering strategies. The comparison with a baseline recommender highlights the advanced capabilities of LLMs in understanding and catering to user preferences.
+
+---
+
+## Work Distribution
+
+This project was a collaborative effort between Thwisha Nahender and Medhavi Darshan, with each contributing to different aspects of the work to ensure the success and effectiveness of the item recommendation system.
+
+### Thwisha Nahender
+Thwisha focused on implementing and fine-tuning the collaborative filtering model. This involved working with the MovieLens 100K dataset, selecting appropriate algorithms for collaborative filtering, and optimizing the model to ensure accurate and relevant item recommendations. Thwisha's work was crucial in establishing a baseline for comparing the performance of the LLM-based recommender.
+
+### Medhavi Darshan
+Medhavi was responsible for the development and implementation of the LLM model. This task required in-depth knowledge of Large Language Models, especially in crafting effective prompts to guide the model in making item recommendations. Medhavi's expertise was instrumental in leveraging the LLM's capabilities to surpass traditional recommendation methods.
+
+### Joint Efforts
+Both Thwisha and Medhavi collaborated extensively on the aspect of prompt engineering. This joint effort was key to enhancing the LLM's performance, as they experimented with various prompt strategies such as DAN and Jailbreaks prompts. Additionally, they worked together on parsing the output from GPT into a format suitable for recommendation purposes, ensuring that the final output was both user-friendly and relevant to the task at hand.
+
+### Conclusion
+The synergy between Thwisha's expertise in collaborative filtering and Medhavi's skills in working with LLMs was a cornerstone of this project's success. Their collaborative work on prompt engineering further strengthened the project, leading to innovative approaches in item recommendation.
+
