@@ -7,7 +7,7 @@ import numpy as np
 from openai import OpenAI
 from sklearn.metrics.pairwise import cosine_similarity
 
-OPENAPI_KEY = "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"
+OPENAPI_KEY = "..."
 openai_client = OpenAI(api_key=OPENAPI_KEY)
 
 # Cell 3
