@@ -22,11 +22,6 @@ To reproduce the results and run the code:
 4. **Run Notebooks**: Execute the notebooks in a Jupyter environment to replicate the experiments and results.
 
 ## Experimentation and Findings
-Based on the summary and findings you've provided, here's an elaborated explanation for the "Experimentation and Findings" section of your README.md:
-
----
-
-## Experimentation and Findings
 
 ### Prompt Engineering with LLMs
 In our experimentation, we focused on the effectiveness of various prompt engineering techniques in enhancing the item recommendation capabilities of Large Language Models (LLMs). Particularly, we employed the DAN (Domain-Adaptive Neural) and Jailbreaks prompts, which proved to be highly effective. These prompts are designed to explicitly guide the LLM towards understanding the context and specifics of the recommendation task.
